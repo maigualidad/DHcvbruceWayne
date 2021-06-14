@@ -1,0 +1,59 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%; 
+    background-color: #E5E5E5;
+    margin: 0%;
+}
+
+h1 {
+    width: 100%;
+    background-color: #C4C4C4;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #005677;
+    padding: 0%;
+    margin: 0%;
+}
+
+.logo {
+    margin-bottom: 20px;
+}
+
+h2 {
+    width: 100%;
+    background-color: #C4C4C4;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #005677;
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.piepag {
+    width: 100%;
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+
+}
+
+p {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.redes {
+    margin-left: 10px;
+}
